@@ -1,0 +1,17 @@
+.img-frame-custom {
+    border-radius: 3%;
+    width: 70%;
+    height: auto;
+} 
+
+#single_view {
+text-align: center;
+display: block;
+max-width: 1000px;
+margin: auto;
+} 
+
+.remove_color_link, .remove_color_link:hover, .remove_color_link:focus, .remove_color_link:active   {
+    text-decoration: none;
+    color: inherit;
+} 

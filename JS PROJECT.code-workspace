@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../JS PROJECT"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
